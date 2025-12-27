@@ -12,7 +12,10 @@
     "KENZO-OWNER-KEY-0842": {
       "expires": "2321-12-31",
       "max_hwids": 5,
-      "hwids":[],
+      "hwids":[
+        "8995A984-94CE-962A-2630-04D9F57D158B",
+        "HWID-EXAMPLE-2"
+      ],
       "banned": false
     },
     "KENZO-TEST-KEY-0001": {
