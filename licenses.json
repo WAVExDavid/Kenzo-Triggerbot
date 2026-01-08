@@ -19,7 +19,7 @@
       "banned": false
     },
     "KENZO-TEST-KEY-0001": {
-      "expires": "2025-12-31",
+      "expires": "2026-01-31",
       "max_hwids": 1,
       "hwids": [],
       "banned": false
